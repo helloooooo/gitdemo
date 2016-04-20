@@ -13,6 +13,7 @@ size_t my_strlen(char *s)
 int main(void)
 {
    int i;
+   printf("haha");
    char *s[] = {
       "Git tutorials",
       "Tutorials Yiibai"
